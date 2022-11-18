@@ -1,1 +1,1 @@
-# gsom_applied_project
+## Applied Project in Big Data on Industrial Dataset
